@@ -1,47 +1,50 @@
 # Hi there 👋, I'm Nishant Pandey
 
-### 💻 Python Backend Developer | Django Developer | CSE Student
+### Python Backend Developer | Django Developer | CSE Student
 
-I'm a Computer Science and Engineering student passionate about backend development, building web applications, and solving real-world problems through code.
+I'm a Computer Science and Engineering student who enjoys working with Python and building backend applications. I like learning by developing projects, exploring new technologies, and understanding how things work behind the scenes.
 
-- 🔭 I'm currently working on **Python and Django projects**
-- 🌱 I'm currently learning **Django, REST APIs, and PostgreSQL**
-- 👯 I'm looking to collaborate on **Python and Django-based projects**
-- 🤔 I'm looking to improve my skills in **Backend Development and Software Engineering**
-- 💬 Ask me about **Python, Django, SQL, and PostgreSQL**
-- 📫 GitHub: [@Np930-cpu](https://github.com/Np930-cpu)
-- ⚡ Fun fact: I enjoy learning new technologies and turning ideas into working applications.
+### About Me
 
----
+- 🔭 Currently building projects using Python and Django.
+- 🌱 Exploring Django REST Framework, REST APIs, and PostgreSQL.
+- 💻 Interested in backend development and database management.
+- 👯 Open to collaborating on Python and Django projects.
+- 💬 I can talk about Python, Django, SQL, and my development projects.
+- 🎯 Always trying to learn something new through practical coding.
 
-### 🛠️ Languages & Technologies
+### Technical Skills
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,django,postgresql,mysql,html,css](https://skillicons.dev/icons?i=python,django,postgresql,mysql,html,css)" /> \</p>
+**Programming Languages:** Python, SQL
 
-### ⚙️ Tools & Platforms
+**Frameworks:** Django, Django REST Framework
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,jupyter](https://skillicons.dev/icons?i=git,github,vscode,jupyter)" /> \</p>
+**Libraries:** Pandas, NumPy
 
----
+**Databases:** PostgreSQL, MySQL
 
-### 🚀 Projects
+### Tools and Platforms
 
-- **Retail Management System** – Django-based application for managing products, categories, and inventory.
-- **Expense Tracker** – Django and PostgreSQL-based application for tracking income, expenses, monthly budgets, and spending patterns.
-- **TrueVote – Secure Voting System** – A secure voting application focused on providing a reliable and transparent voting process.
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
 
----
+### Projects
 
-### 📊 GitHub Statistics
+**1. Retail Management System**
 
-\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Np930-cpu&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=Np930-cpu\&show_icons=true\&theme=tokyonight)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Np930-cpu&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Np930-cpu\&layout=compact\&theme=tokyonight)" height="165" /> \</p>
+A Django-based project for managing products, categories, and inventory. It includes CRUD operations to add, update, view, and manage product and category information.
 
----
+**2. Expense Tracker**
 
-### 🤝 Connect With Me
+A Django and PostgreSQL project for recording income and expenses, managing monthly budgets, and tracking spending patterns through dashboards.
 
-\<p align="left">   \<a href="[https://github.com/Np930-cpu](https://github.com/Np930-cpu)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/nishant-pandey-851b17341](https://www.linkedin.com/in/nishant-pandey-851b17341)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
+**3. TrueVote – Secure Voting System**
 
----
+A secure voting system project focused on making the voting process more reliable and transparent.
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+### Connect With Me
+
+- GitHub: [Np930-cpu](https://github.com/Np930-cpu)
+- LinkedIn: [Nishant Pandey](https://www.linkedin.com/in/nishant-pandey-851b17341)
